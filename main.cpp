@@ -12,4 +12,11 @@ int main(){
 	return 0;
 	
 }
+{
+  int add(int b, int b) {
+    int r;
+    r=a+b
+      return r;
+  }
+}
 
