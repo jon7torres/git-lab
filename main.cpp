@@ -13,10 +13,19 @@ int main(){
 	
 }
 {
+
   int add(int b, int b) {
     int r;
     r=a+b
       return r;
+  }
+}
+
+
+  int subtract(int a, int b) {
+    int r;
+    r=a-b;
+    return r;
   }
 }
 
