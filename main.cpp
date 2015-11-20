@@ -12,4 +12,10 @@ int main(){
 	return 0;
 	
 }
-
+{
+  int subtract(int a, int b) {
+    int r;
+    r=a-b;
+    return r;
+  }
+}
